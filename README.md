@@ -1,5 +1,6 @@
 # Minecraft on Panda3D
 Clone of the Minecraft game on Python using the Panda3D library.
+![screenshot](https://github.com/veprikovnv/MinecraftOnPanda3D/blob/master/screenshot.jpg?raw=true "Game screenshot")
 
 Panda3D library installation command:
 
