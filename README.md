@@ -11,7 +11,7 @@ Panda3D library installation command:
 
 **block.py** - basic building block.
 
-**controller.py** - module for controlling the camera and character.
+**controller.py** - module for controlling a camera and character.
 
 **mapmanager.py** - module for creating, saving and loading a map.
 
